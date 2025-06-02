@@ -1,4 +1,4 @@
-**Refactored React App Structure**
+** React App Structure**
 
 ```
 /src
